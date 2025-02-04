@@ -1,0 +1,3 @@
+rootProject.name = 'multi-thread-local-kit'
+include 'core'
+include 'sandbox'
